@@ -1,0 +1,7 @@
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment1-kmodi
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment1-kmodi.dll
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment1-kmodi.deps.json
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment1-kmodi.runtimeconfig.json
+/Users/kush_1000/Projects/Fall2024-Assignment1-kmodi/obj/Release/net7.0/PubTmp/Out/Fall2024-Assignment1-kmodi.pdb

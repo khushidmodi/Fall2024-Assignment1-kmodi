@@ -1,0 +1,64 @@
+﻿body {
+    background-color: #641e16;
+}
+
+#Title {
+    color: white;
+    text-align: center;
+}
+
+#Rating {
+    color: white;
+    text-align: center;
+}
+
+#SummaryTitle {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#Summary {
+    color: white;
+    text-align: center;
+}
+
+#ActorTitle {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#Actors li {
+    color: white;
+    display: flex;
+    justify-content: center;
+    /* list-style: circle; */
+    /*    text-align: center;*/
+    /* display: inline-block; */
+}
+
+a {
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+p {
+    color: white;
+}
+
+#CoverArt {
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+
+#Trailer {
+    display: block;
+    margin: 0 auto;
+}
