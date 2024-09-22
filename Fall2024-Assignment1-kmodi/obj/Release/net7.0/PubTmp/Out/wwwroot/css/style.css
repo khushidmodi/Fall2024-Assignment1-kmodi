@@ -1,5 +1,13 @@
 ﻿body {
     background-color: #641e16;
+    margin: 60px;
+    padding: 20px;
+}
+
+p {
+    color: white;
+    margin: 10px;
+    padding: 0;
 }
 
 #Title {
@@ -45,10 +53,6 @@ a {
     display: block;
     text-align: center;
     padding: 10px 20px;
-}
-
-p {
-    color: white;
 }
 
 #CoverArt {
